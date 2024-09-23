@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bohta.github.io/WsT/sitemap.WsT.gz
