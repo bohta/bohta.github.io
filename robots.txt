@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bohta.csgad.com/dsi/sitemap.xml.gz
